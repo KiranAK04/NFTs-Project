@@ -49,15 +49,15 @@ To get a local copy up and running, follow these steps:
 2. **Browse NFTs:**
    Explore the collection of NFTs presented on the webpage.
 ## Contributing
-   Contributions are welcome! Please follow these steps to contribute:
-   -1.Fork the repository.
-   -2.Create a new branch (git checkout -b feature/YourFeature).
-   -3.Commit your changes (git commit -m 'Add some feature').
-   -4.Push to the branch (git push origin feature/YourFeature).
-   -5.Open a Pull Request.
-   Please make sure your code adheres to the existing code style and includes relevant tests.
+Contributions are welcome! Please follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a Pull Request.
+Please make sure your code adheres to the existing code style and includes relevant tests.
 ## License
-   This project is licensed under the MIT License. See the [License](#license) file for more information.
+This project is licensed under the MIT License. See the [License](#license) file for more information.
 ## Contact
-   Your Name - kirankumbar85@gmail.com
-   Project Link: https://kiranak04.github.io/NFTs-Project/
+Your Name - kirankumbar85@gmail.com
+Project Link: https://kiranak04.github.io/NFTs-Project/

@@ -1,6 +1,6 @@
 # NFT Marketplace
 
-Welcome to the NFT Marketplace project! This is a decentralized application (DApp) for buying, selling, and trading non-fungible tokens (NFTs) built on blockchain technology.
+Welcome to the NFT Marketplace project! This is a simple frontend application for browsing non-fungible tokens (NFTs) built using HTML and CSS.
 
 ## Table of Contents
 
@@ -15,24 +15,16 @@ Welcome to the NFT Marketplace project! This is a decentralized application (DAp
 
 ## Project Description
 
-The NFT Marketplace allows users to create, buy, sell, and trade NFTs securely and transparently. It leverages the power of blockchain to ensure the uniqueness and ownership of digital assets.
+The NFT Marketplace allows users to browse NFTs. It is built using HTML and CSS and can be served using any web server.
 
 ## Features
 
-- **User Authentication**: Secure user authentication using wallet addresses.
-- **NFT Minting**: Create (mint) new NFTs with metadata and media files.
-- **Marketplace**: Buy, sell, and trade NFTs with other users.
-- **Auction System**: Bid on NFTs in an auction format.
-- **Search and Filter**: Search and filter NFTs based on various criteria.
-- **User Profiles**: View and manage user profiles and their NFTs.
+- **Browse NFTs**: View a collection of NFTs.
+- **Responsive Design**: The application is responsive and works on various devices.
 
 ## Tech Stack
 
-- **Frontend**: React.js, Redux, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Blockchain**: Ethereum, Solidity, Web3.js
-- **Database**: MongoDB
-- **IPFS**: For decentralized storage of NFT metadata and media
+- **Frontend**: HTML, CSS
 
 ## Installation
 
@@ -42,3 +34,30 @@ To get a local copy up and running, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/nft-marketplace.git
+2. **Navigate to the project directory:**
+    ```bash
+    cd nft-marketplace
+3. **Open the application:**
+   You can use any web server to serve the HTML file. For simplicity, you can use the built-in web server in Python:
+   ```bash
+   python3 -m http.server
+## Usage
+1. **Open the application in your browser:**
+   If using Python's built-in server, navigate to:
+   ```bash
+   http://localhost:8000
+2. **Browse NFTs:**
+   Explore the collection of NFTs presented on the webpage.
+## Contributing
+   Contributions are welcome! Please follow these steps to contribute:
+   1.Fork the repository.
+   2.Create a new branch (git checkout -b feature/YourFeature).
+   3.Commit your changes (git commit -m 'Add some feature').
+   4.Push to the branch (git push origin feature/YourFeature).
+   5.Open a Pull Request.
+   Please make sure your code adheres to the existing code style and includes relevant tests.
+## License
+   This project is licensed under the MIT License. See the [License](#license) file for more information.
+## Contact
+   Your Name - kirankumbar85@gmail.com
+   Project Link: https://github.com/your-username/nft-marketplace
